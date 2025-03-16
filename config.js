@@ -8,17 +8,17 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
+  activityName: "WISDOM MUSIC", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/xQF9f9yUEM",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
      {
-      name: "XX",
-      password: "0682240100razor",
-      host: "78.46.65.243",
-      port:  5643,
+      name: "Avinan",
+      password: "avinan",
+      host: "new-york-node-1.vortexcloud.xyz",
+      port:  9323,
       secure: false
     }
   ]
