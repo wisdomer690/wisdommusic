@@ -109,7 +109,7 @@ function initializePlayer(client) {
                 `- **Author:** ${track.info.author || 'Unknown Artist'}\n` +
                 `- **Length:** ${formatDuration(track.info.length)}\n` +
                 `- **Requester:** ${requester}\n` +
-                `- **Source:** ${track.info.sourceName}\n` + '**- Controls :**\n <:crepeat:1163336689767415848> `Loop`, ❌ `Disable`, <:cforward:1163176538401951754> `Skip`, <:cqueue:1163351508323139644> `Lyrics`, 🗑️ `Clear`\n 🟧 `Stop`, <:cpause:1163176548434726912> `Pause`, <:cplay:1163177388818059305> `Resume`, <:cloudsound:1163185553165013134> `Vol +`, <:clowsound:1163177980118437948> `Vol -`')
+                `- **Source:** ${track.info.sourceName}\n` + '**- Controls :**\n  🔁 `Loop`, ❌ `Disable`, ⏭️ `Skip`, 📜 `Queue`, 🗑️ `Clear`\n ⏹️ `Stop`, ⏸️ `Pause`, ▶️ `Resume`, 🔊 `Vol +`, 🔉 `Vol -`)
             .setImage('attachment://musicard.png')
             .setColor('#FF7A00');
 
