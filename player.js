@@ -503,7 +503,7 @@ function createActionRow1(disabled) {
 function createActionRow2(disabled) {
     return new ActionRowBuilder()
         .addComponents(
-            new ButtonBuilder().setCustomId("stopTrack").setEmoji('🟥').setStyle(ButtonStyle.Danger).setDisabled(disabled),
+            new ButtonBuilder().setCustomId("stopTrack").setEmoji('⏹').setStyle(ButtonStyle.Danger).setDisabled(disabled),
             new ButtonBuilder().setCustomId("pauseTrack").setEmoji('<:cpause:1163176548434726912>').setStyle(ButtonStyle.Secondary).setDisabled(disabled),
             new ButtonBuilder().setCustomId("resumeTrack").setEmoji('<:cautoplay:1163334866402811904>').setStyle(ButtonStyle.Secondary).setDisabled(disabled),
             new ButtonBuilder().setCustomId("volumeUp").setEmoji('<:cloudsound:1163185553165013134>').setStyle(ButtonStyle.Secondary).setDisabled(disabled),
