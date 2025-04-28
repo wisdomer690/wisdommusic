@@ -16,6 +16,7 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
+PRIME MUSIC
 {
       name: "Unknownz",
       password: "unknownz",
