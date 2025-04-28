@@ -18,10 +18,10 @@ module.exports = {
   nodes: [
 PRIME MUSIC
 {
-      name: "Unknownz",
-      password: "unknownz",
-      host: "de1.bot-hosting.net",
-      port:  20773,
+      name: "MuzammilOPYT",
+      password: "yourpasswordhere",
+      host: "ind1.zapto.org",
+      port:  25575,
       secure: false
 }
 }
