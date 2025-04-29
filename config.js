@@ -19,9 +19,9 @@ module.exports = {
 PRIME MUSIC
 {
       name: "MuzammilOPYT",
-      password: "yourpasswordhere",
-      host: "ind1.zapto.org",
-      port:  25575,
+      password: "youshallnotpass",
+      host: "lavalink.jirayu.net",
+      port:  13592,
       secure: false
 }
 }
