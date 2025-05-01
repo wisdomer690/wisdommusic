@@ -18,7 +18,7 @@ module.exports = {
   nodes: [
 PRIME MUSIC
 {
-      name: "MuzammilOPYT",
+      name: "Main Node",
       password: "youshallnotpass",
       host: "lavalink.jirayu.net",
       port:  13592,
